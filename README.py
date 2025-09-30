@@ -1,3 +1,3 @@
-print("Nombre: Gabriela Méndez")
-print("Carnet: 20255804")
-print("Sección: 1")
+Nombre: Gabriela Méndez
+Carnet: 20255804
+Sección: 1
